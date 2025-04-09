@@ -3,6 +3,21 @@ This repository contains tools and resources for analyzing dryland vegetation im
 
 📦 Files
 Dryland Data: Raw vegetation image dataset.
+Where I saved the months as:
+j - january
+f - febraury
+m - march
+a - april
+m - may
+jun - june
+jul - july
+aug - august
+s - september
+o - october
+n - november
+d - december
+Followed by the year.
+For example: a15 is April , 2015
 
 Euler Characteristic: Code for computing Euler characteristics from binary images.
 
